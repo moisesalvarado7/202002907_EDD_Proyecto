@@ -1,0 +1,5 @@
+MantenimientoAviones,Ingreso,N70014;
+MantenimientoAviones,Salida,N70015;
+DarDeBaja(X70000123);
+DarDeBaja(X05000123);
+DarDeBaja(X30000123);
